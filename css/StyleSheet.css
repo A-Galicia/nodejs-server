@@ -1,0 +1,55 @@
+﻿﻿html,
+body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    background-image: url("/images/nodes.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.top {
+    color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    margin: 0;   
+}
+
+.top h1 {
+    font-size: 4rem;
+    padding: 0;
+    margin: 0;
+}
+
+.top p {
+    font-size: 2rem;
+    padding: 0;
+    margin: 0;
+}
+
+.node {
+    background-color: darkgreen;
+    border: none;
+    padding: 5px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+#github {
+    position: absolute;
+    top: 48.7%;
+    left: 59.1%;
+}
+
+#linkedin {
+    position: absolute;
+    top: 84.9%;
+    left: 51.9%;
+}

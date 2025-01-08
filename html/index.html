@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>A Galicia</title>
+    <link href="css/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="top">
+        <h1 class="heading">Alfredo Galicia's Website</h1>
+        <p>Hover over a node to access that element</p>
+    </div>
+
+    <button class="node"
+            id="github"
+            onclick="window.open('https://github.com/A-Galicia', '_blank')"
+            onmouseover="showImage('github','./images/github-logo.png')"
+            onmouseout="hideImage('github')">
+    </button>
+
+
+    <button class="node"
+            id="linkedin"
+            onclick="window.open('https://www.linkedin.com/in/alfredo-galicia2', '_blank')"
+            onmouseover="showImage('linkedin','./images/linkedin-logo.png')"
+            onmouseout="hideImage('linkedin')">
+    </button>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

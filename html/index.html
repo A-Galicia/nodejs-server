@@ -9,7 +9,7 @@
 <body>
     <div class="top">
         <h1 class="heading">Alfredo Galicia's Website</h1>
-        <p>Hover over a node to access that element</p>
+        <p>Hover over a <span class="green-node">node</span> to access that element</p>
     </div>
 
     <button class="node"
@@ -25,6 +25,13 @@
             onclick="window.open('https://www.linkedin.com/in/alfredo-galicia2', '_blank')"
             onmouseover="showImage('linkedin','./images/linkedin-logo.png')"
             onmouseout="hideImage('linkedin')">
+    </button>
+
+    <button class="node"
+            id="powerlifting"
+            onclick="window.open('https://www.openpowerlifting.org/u/alfredogalicia', '_blank')"
+            onmouseover="showImage('powerlifting','./images/openpowerlifting-logo.png')"
+            onmouseout="hideImage('powerlifting')">
     </button>
 
     <script src="js/main.js"></script>

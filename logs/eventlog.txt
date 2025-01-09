@@ -1,0 +1,17 @@
+20250108	10:52:39	 0b220124-c978-4e6d-a675-b993f1bf941e	log event emitted!
+20250108	10:52:54	 144f6f74-1a61-4238-b080-2a1f980c560c	log event emitted!
+20250108	11:06:31	 5c5cd849-8451-49bf-85b3-8cb88bc0b6bd	log event emitted!
+20250108	12:01:53	 85246b4c-e31d-4e9f-9520-38162682bc72	/	GET
+20250108	12:01:53	 08215506-160a-4ce3-97c4-41012e275c9b	Error: ENOENT: no such file or directory, open 'C:\Users\alfga\OneDrive\Documents\0 - Pro Docs\Projects\NodejsServer\views\404.html'
+20250108	12:05:06	 278ce65c-46aa-4146-b2bc-d39dd1f75197	/	GET
+20250108	12:05:06	 23aaeba6-5ee5-48b5-b01a-b54ce006f33e	/css/StyleSheet.css	GET
+20250108	12:05:06	 6e7f8a1a-2901-4ebf-aaf3-8adf86c935c3	/js/main.js	GET
+20250108	12:05:06	 d748db5e-f2c3-45a8-a084-2611b6aebad9	/images/nodes.png	GET
+20250108	12:05:08	 e1a59a97-3b8b-49a7-bda6-f872f7f576a3	/favicon.ico	GET
+20250108	12:05:11	 0fa2c1a1-4736-4d59-8749-df295fa056f6	/images/github-logo.png	GET
+20250108	12:05:13	 9cf170e0-e199-497b-8fcf-17e4ad82eb20	/images/linkedin-logo.png	GET
+20250108	13:24:07	 df92fa8d-c4b5-43a4-8e49-15c681524be8	/	GET
+20250108	13:24:07	 8b84e77f-64a6-43e5-8b43-78c0123c975d	/css/StyleSheet.css	GET
+20250108	13:24:07	 d3629a48-ffc6-4ea9-abb8-2ce542b4bb93	/js/main.js	GET
+20250108	13:24:07	 7a2e6920-952b-4c22-843f-e0740fe44812	/images/nodes.png	GET
+20250108	13:45:34	 d17f1671-7e86-4120-bc2e-bedddd24ffa4	log event emitted!

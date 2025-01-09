@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3252E5-9DF7-45E1-907F-D92CB7C7E852}|NodejsServer.njsproj|C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7A3252E5-9DF7-45E1-907F-D92CB7C7E852}|NodejsServer.njsproj|solutionrelative:app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3252E5-9DF7-45E1-907F-D92CB7C7E852}|NodejsServer.njsproj|C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\logEvents.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7A3252E5-9DF7-45E1-907F-D92CB7C7E852}|NodejsServer.njsproj|solutionrelative:logEvents.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "logEvents.js",
+              "DocumentMoniker": "C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\logEvents.js",
+              "RelativeDocumentMoniker": "logEvents.js",
+              "ToolTip": "C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\logEvents.js",
+              "RelativeToolTip": "logEvents.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-07T17:53:41.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\app.js",
+              "RelativeDocumentMoniker": "app.js",
+              "ToolTip": "C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\app.js",
+              "RelativeToolTip": "app.js",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-08T18:37:26.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

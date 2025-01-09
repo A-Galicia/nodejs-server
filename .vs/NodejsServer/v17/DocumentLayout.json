@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7A3252E5-9DF7-45E1-907F-D92CB7C7E852}|NodejsServer.njsproj|C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A3252E5-9DF7-45E1-907F-D92CB7C7E852}|NodejsServer.njsproj|solutionrelative:html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A3252E5-9DF7-45E1-907F-D92CB7C7E852}|NodejsServer.njsproj|C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7A3252E5-9DF7-45E1-907F-D92CB7C7E852}|NodejsServer.njsproj|solutionrelative:app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A3252E5-9DF7-45E1-907F-D92CB7C7E852}|NodejsServer.njsproj|C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\logEvents.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7A3252E5-9DF7-45E1-907F-D92CB7C7E852}|NodejsServer.njsproj|solutionrelative:logEvents.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{7A3252E5-9DF7-45E1-907F-D92CB7C7E852}|NodejsServer.njsproj|C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7A3252E5-9DF7-45E1-907F-D92CB7C7E852}|NodejsServer.njsproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\css\\StyleSheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\StyleSheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,26 +30,52 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "logEvents.js",
-              "DocumentMoniker": "C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\logEvents.js",
-              "RelativeDocumentMoniker": "logEvents.js",
-              "ToolTip": "C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\logEvents.js",
-              "RelativeToolTip": "logEvents.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-07T17:53:41.447Z",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-01-09T20:25:45.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\html\\index.html",
+              "RelativeDocumentMoniker": "html\\index.html",
+              "ToolTip": "C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\html\\index.html*",
+              "RelativeToolTip": "html\\index.html*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-09T04:46:58.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\css\\StyleSheet.css",
+              "RelativeToolTip": "css\\StyleSheet.css",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-09T04:28:14.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "app.js",
               "DocumentMoniker": "C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\app.js",
               "RelativeDocumentMoniker": "app.js",
               "ToolTip": "C:\\Users\\alfga\\OneDrive\\Documents\\0 - Pro Docs\\Projects\\NodejsServer\\app.js",
               "RelativeToolTip": "app.js",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAAwEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-01-08T18:37:26.919Z",
               "EditorCaption": ""
